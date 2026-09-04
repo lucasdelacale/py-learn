@@ -56,3 +56,5 @@ formato_p_nomeado = "{nome} {sobrenome} tem {altura:.2f} de altura, pesa {peso} 
     nome=nome, sobrenome=sobrenome, altura=altura, peso=peso, imc=imc)
 
 print(formato_p_nomeado)
+
+#
